@@ -1,0 +1,21 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore environment variable file
+.env
+
+# Ignore log files
+logs/
+*.log
+npm-debug.log*
+
+# Ignore coverage reports
+coverage/
+
+# Ignore local test files
+*.tgz
+
+# Ignore temporary files
+*.tmp
+#The dist (short for "distribution") folder often contains the compiled or minified version of the source code (for example, from TypeScript or bundlers like Webpack). This is usually a production-ready build output and can be regenerated from source code, so it's often ignored in version control.
+dist/
