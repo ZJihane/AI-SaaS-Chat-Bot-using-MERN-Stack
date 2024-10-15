@@ -1,7 +1,6 @@
 # AI SaaS Chat Bot using MERN Stack
 
 ![image](https://github.com/user-attachments/assets/e473b60f-0c82-4f10-8c53-788d5e5ebbee)
-![image](https://github.com/user-attachments/assets/529b4d65-b3a2-4d0a-b083-f046c8089dd2)
 ![image](https://github.com/user-attachments/assets/da6a0ec2-9202-44bd-bf49-c44983160f01)
 
 
